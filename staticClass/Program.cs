@@ -14,7 +14,7 @@ namespace staticClass
   * 
   * static class:
   * -a static class is declared with static keyword.
-  * -it contain only static data members,static methods and a ststic constructor.
+  * -it contain only static data members,static methods and a static constructor.
   * -it is not allowed to create objects of the static class.
   * -static classes are sealed, means one cannot inherit a static class from another class.
   */
